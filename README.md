@@ -1,2 +1,2 @@
-# GO-Genie-issue-tracker
+# GO-Genie-issues
 Tracks GO-Génie issues.
